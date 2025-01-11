@@ -1,6 +1,9 @@
 import { FaArrowRight } from "react-icons/fa";
 
 function About() {
+
+
+  
   return (
     <div className="bg-white h-max rounded-lg my-5 lg:p-6 p-2">
       <div>
